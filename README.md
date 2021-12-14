@@ -8,8 +8,9 @@
 - 📫 How to reach me: ... <br>
 - 😄 Pronouns: ... <br>
 - ⚡ Fun fact: ... <br>
-[![Abdelrahman Mohamed's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelrahmanXMohamed)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abdelrahman Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanXMohamed&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/AbdelrahmanXMohamed/github-readme-stats)
+
+
 <!--
 **AbdelrahmanXMohamed/AbdelrahmanXMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
