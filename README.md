@@ -8,8 +8,7 @@
 - 📫 How to reach me: ... <br>
 - 😄 Pronouns: ... <br>
 - ⚡ Fun fact: ... <br>
-https://git.io/JDE4J
-<!--
+[![Abdelrahman Mohamed's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelrahmanXMohamed)](https://github.com/ashutosh00710/github-readme-activity-graph)<!--
 **AbdelrahmanXMohamed/AbdelrahmanXMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
