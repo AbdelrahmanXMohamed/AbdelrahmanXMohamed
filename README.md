@@ -2,12 +2,12 @@
 <h1>
  My Name is <span id="typed" style="color:red;">Abdelrahman Mohamed</span> 
 </h1>
-- 🔭 I’m currently looking for work  ...
-- 🌱 I’m currently learning ... Django Rest framework
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently looking for work \n 
+- 🌱 I’m currently learning ... Django Rest framework \n
+- 💬 Ask me about ... \n
+- 📫 How to reach me: ... \n
+- 😄 Pronouns: ... \n
+- ⚡ Fun fact: ... \n
 
 <!--
 **AbdelrahmanXMohamed/AbdelrahmanXMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
