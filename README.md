@@ -94,11 +94,10 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmaXMohamed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="AbdelrahmaXMohamed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmaXMohamed&count_private=true&show_icons=true&hide=contribs" alt="AbdelrahmaXMohamed">
 </p>
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanXMohamed&layout=compact)
 <div align="center">
 <h3><b>😄 Connect With Me</b></h3>
 </div>
