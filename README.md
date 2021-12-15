@@ -98,6 +98,7 @@
 </p>
 
 <br>
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=laxmena&count_private=true&show_icons=true&hide=contribs)
 <div align="center">
 <h3><b>😄 Connect With Me</b></h3>
 </div>
