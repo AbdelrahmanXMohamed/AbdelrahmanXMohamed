@@ -98,7 +98,7 @@
 </p>
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanXMohamed&layout=compact)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanXMohamed&layout=compact)
 <div align="center">
 <h3><b>😄 Connect With Me</b></h3>
 </div>
