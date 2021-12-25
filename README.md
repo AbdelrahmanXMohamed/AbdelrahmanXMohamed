@@ -1,21 +1,18 @@
+## Hi I'm Abderlrahman Mohamed <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
-
-<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Abderlrahman Mohamed</h1>
-
-<h3>A passionate full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
+A passionate full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!
 
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-- 🌱 I’m currently learning **Django Python**
+- 🌱 I’m currently learning **Django Reset Frame Work**
 
-- 🔭 I’m currently working on my **eCommerce WebApp**
+- 🔭 I’m currently working on my **Standalone Projects WebApp**
 
-- 🌱 I’m currently learning **Python, Django, HTML5, CSS3, SweetAlert, ChartJs and Firebase**
+- 🌱 I’m currently working with **Python, Django, JavaScript, React , HTML5, CSS3**
 
-- 👯 I’m looking to collaborate on **front-end, back-end, arduino and IoT projects**
+- 👯 I’m looking to collaborate on **front-end and back-end**
 
 - 📫 How to reach me: **abdelrahman.mohamedx1999@gmail.com**
 
@@ -23,22 +20,15 @@
 
 - ⚡ Fun fact **MyCode to Me : Don't touch me otherewise you are getting tooooo much errors...**<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
- </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-</a> 
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+## Languages and Tools
+
+<p align="left">
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" alt="" width="40" height="40">
 </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -46,30 +36,17 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
 </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a>
-  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
@@ -80,32 +57,35 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" alt="python" width="40" height="40"/>
+
 </a>
 </p>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanXMohamed&layout=compact" alt="AbdelrahmaXMohamed" />
-</p>
+## Top used
 
-<p align='center'>
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=AbdelrahmaXMohamedAbdelrahmaXMohamed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="AbdelrahmaXMohamed" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanXMohamed& title_color=fff&icon_color=0d1117&text_color=efefef&bg_color=0d1117" alt="AbdelrahmaXMohamed" width="50%"/>
+</div>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmaXMohamed&count_private=true&show_icons=true&hide=contribs" alt="AbdelrahmaXMohamed">
-</p>
+## Stats
+
+<div align='center'>
+  <img align="left"src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdelrahmanXMohamed&theme=github_dark"alt="AbdelrahmaXMohamed" width="50%">
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdelrahmanXMohamed&theme=github_dark" alt="AbdelrahmaXMohamed" width="50%" >
+</div>
+<div align='center'>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanXMohamed&theme=github_dark" alt="AbdelrahmaXMohamed">
+</div>
 
 <br>
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=laxmena&count_private=true&show_icons=true&hide=contribs)
 <div align="center">
 <h3><b>😄 Connect With Me</b></h3>
 </div>
-<p align="center">
-<a href="https://codepen.io/AbdelrahmaXMohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/AbdelrahmaXMohamed/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="AbdelrahmaXMohamed" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdelrahman-mohamed-a85535174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/AbdelrahmaXMohamed/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rock1223" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/AbdelrahmaXMohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/AbdelrahmaXMohamed/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AbdelrahmaXMohamed" height="30" width="40" /></a>
-</p>
+<div align="center">
+<a  href="http://www.linkedin.com/in/abdelrahman-mohamed-a85535174/">
+<img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?color=0A66C2&label=linkedin&logo=linkedin&style=for-the-badge&url=http://www.linkedin.com/in/abdelrahman-mohamed-a85535174/">
+</a>
+</div>
 <br>
-
