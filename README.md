@@ -63,18 +63,19 @@ A passionate full stack web developer <img src="https://media.giphy.com/media/WU
 </a>
 </p>
 
-## Top used
+## Top used languages
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanXMohamed& title_color=fff&icon_color=0d1117&text_color=efefef&bg_color=0d1117" alt="AbdelrahmaXMohamed" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanXMohamed& title_color=fff&icon_color=0d1117&text_color=efefef&bg_color=0d1117" alt="AbdelrahmaXMohamed" />
 </div>
 
 ## Stats
 
-<div align='center'>
-  <img align="left"src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdelrahmanXMohamed&theme=github_dark"alt="AbdelrahmaXMohamed" width="50%">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdelrahmanXMohamed&theme=github_dark" alt="AbdelrahmaXMohamed" width="50%" >
+<div align="center">
+  <img align="left"src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdelrahmanXMohamed&theme=github_dark"alt="AbdelrahmaXMohamed" >
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdelrahmanXMohamed&theme=github_dark" alt="AbdelrahmaXMohamed" >
 </div>
+<br>
 <div align='center'>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanXMohamed&theme=github_dark" alt="AbdelrahmaXMohamed">
 </div>
