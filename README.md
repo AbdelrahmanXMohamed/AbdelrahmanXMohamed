@@ -72,12 +72,11 @@ A passionate full stack web developer <img src="https://media.giphy.com/media/WU
 ## Stats
 
 <div align="center">
-  <img align="left"src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdelrahmanXMohamed&theme=github_dark"alt="AbdelrahmaXMohamed" >
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdelrahmanXMohamed&theme=github_dark" alt="AbdelrahmaXMohamed" >
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdelrahmanXMohamed&theme=github_dark"alt="AbdelrahmaXMohamed" >
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdelrahmanXMohamed&theme=github_dark" alt="AbdelrahmaXMohamed" >
 </div>
-<br>
-<div align='center'>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanXMohamed&theme=github_dark" alt="AbdelrahmaXMohamed">
+<div align=center>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrahmanXMohamed&theme=github_dark" alt="AbdelrahmaXMohamed">
 </div>
 
 <br>
